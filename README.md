@@ -19,4 +19,4 @@ Las baterias de prueba consiste en comprobar si es capaz de detectar;
 - Espacios en blanco.
 - Números.
 - Caracteres especiales.
-- Que se introducen al menos 3 caracteres. ff
+- Que se introducen al menos 3 caracteres.
