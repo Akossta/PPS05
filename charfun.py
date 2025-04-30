@@ -1,5 +1,5 @@
 debug=0
-
+ 
 def check_input(texto):
     if texto == "":
         print("No se ha introducido ningun texto")
