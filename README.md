@@ -20,7 +20,7 @@ y nos devolvera el resultado
 ## 3.Test
 Para lanzar la bateria de pruebas, debemos ejecutar el siguiente programa:
 ~~~
-    python checkcharfun.py 
+python checkcharfun.py 
 ~~~
 
 La bateria de prueba consiste en comprobar si es capaz de detectar;
