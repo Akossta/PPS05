@@ -27,7 +27,5 @@ La bateria de prueba consiste en comprobar si es capaz de detectar;
 - Espacios en blanco.
 - Números.
 - Caracteres especiales.
-<<<<<<< HEAD
 - Que se introducen al menos 3 caracteres.a
-=======
 - Que se introducen al menos 3 caracteres.
