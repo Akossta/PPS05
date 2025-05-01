@@ -31,4 +31,3 @@ La bateria de prueba consiste en comprobar si es capaz de detectar;
 - Que se introducen al menos 3 caracteres.a
 =======
 - Que se introducen al menos 3 caracteres.
->>>>>>> bcd6428259785a72ffd725d1f6eaa43096e5044b
