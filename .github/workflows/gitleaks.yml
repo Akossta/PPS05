@@ -1,0 +1,16 @@
+name: Escaner con Gitleaks
+on:
+  push:
+    branches:
+      - main
+jobs:
+  gitleaks-scan:
+    name: Escaner
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Lanza gitleaks
+        uses: gitleaks/gitleaks-action@v2
+        with:
+          args: detect --source . --redact --exit-code 1
